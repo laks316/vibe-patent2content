@@ -1,9 +1,6 @@
-# vibe-patent2content
-Convert Patent PDFs to Simplefied Content (Vibe coded with Gemini 2.5 Pro)
+# 📄 Convert Patent PDFs to Simplefied Content
 
-# 📄 Patent Insight Generator with AI Summary
-
-This is a Streamlit web application that allows users to upload a Patent document in PDF format, view it within the browser, and generate an AI-powered executive summary using the Google Gemini API. It also provides sections for users to manually input key patent details and add their own analysis notes.
+This is a Streamlit web application (Vibe coded with Gemini 2.5 Pro) that allows users to upload a Patent document in PDF format, view it within the browser, and generate an AI-powered executive summary using the Google Gemini API. It also provides sections for users to manually input key patent details and add their own analysis notes.
 
 ## ✨ Features
 
